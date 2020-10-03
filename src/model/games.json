@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "titulo": "Grand Theft Auto II",
+        "date": "2001"
+      },
+      {
+        "id": 2,
+        "titulo": "Tony Hawk's Pro Skater 3",
+        "date": "2001"
+      },
+      {
+        "id": 3,
+        "titulo": "Resident Evil 4",
+        "date": "2005"
+      } ,
+      {
+        "id": 4,
+        "titulo": "Metal Gear Solid 2",
+        "date": "2001"
+      },
+      {
+        "id": 5,
+        "titulo": "Gran Turismo 3: A-Spec",
+        "date": "2001"
+      },
+      {
+        "id": 6,
+        "titulo": "Madden NFL 2003",
+        "date": "2002"
+      },
+      {
+        "id": 7,
+        "titulo": "Devil May Cry",
+        "date": "2001"
+      },
+      {
+        "id": 8,
+        "titulo": "Metal Gear Solid 3: Subistence",
+        "date": "2006"
+      },
+      {
+        "id": 9,
+        "titulo": "God of War",
+        "date": "2005"
+      },
+      {
+        "id": 10,
+        "titulo": "Virtua Fighter 4",
+        "date": "2002"
+      }
+
+]
